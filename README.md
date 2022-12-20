@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to the Github for Nolan Jimmo! 👋
 
 <!--
 **nolanjimmo/nolanjimmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me
+I am a recent graduate of the University of Vermont with both a Bachelor of Science and Masters degree in Computer Science, where I was enrolled in the universities Accelerated Masters program. I am currently looking a full-time job, please feel free to look around a couple of my repo's and see what I have worked on throughout my undergraduate and graduate career!
