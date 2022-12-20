@@ -29,5 +29,5 @@ My team and I worked with one of the Graduate Research Labs at UVM on writing cl
 Linked above are two graphics-heavy projects that I worked on with two different teams of people. Rock paper scissors, written in C++ is a simple implementation of the well-known game, with all graphics and controls built by my partner and I using OpenGL and standard C++ libraries.<br>
 The NBA trading card service is a Python-based trading card webservice that we built both the backend database and API for (Python and MySQL), as well as the front-end webapp (Python and Flask).
 <br>
-[American Sign Language Learning Aid](https://github.com/nolanjimmo/ASL-Learning-Aid/blob/master/leapDrawCircle.js)<br>
+[American Sign Language Learning Aid](https://github.com/nolanjimmo/ASL-Learning-Aid/blob/master/leapDrawCircle.js)<br><br>
 This was an individual project I wrote in Python and Javascript that is an interactive Sign Language learning aid. Using a Leap Motion Sensor, the user is able to interact with the aid when given an example sign to try, and the program gives feedback on the correctness of the users physical signing. Included is a crude account (sign in/out) system, a training mode and a testing mode, that keeps track of a users score and time to be able to compare with their previous scores as well as other users scores. 
