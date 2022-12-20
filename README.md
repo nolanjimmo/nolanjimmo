@@ -21,10 +21,10 @@ I am a recent graduate of the University of Vermont with both a Bachelor of Scie
 ## Highlights
 There have been a number of projects that I have had the privelege of working on, below are links to a few that have been especially meaningful to me:
 
-[Multiple Sclerosis Machine Learning Project](https://github.com/nolanjimmo/ML-MS-Prediction-Project)
+[Multiple Sclerosis Machine Learning Project](https://github.com/nolanjimmo/ML-MS-Prediction-Project)<br>
 My team and I worked with one of the Graduate Research Labs at UVM on writing classifiers for predicting falling risk level in Multiple Sclerosis patients. The goal of the lab was to build an app that could give real-time feedback to MS patients on their fall risk levels based on wearable sensor data captured at any time by each patient at home. For our project we demonstrated how this classification worked and were able to accurately determine a patients risk level, indicating what they would be able to physically tolerate during the day. The algorithm(s) were then passed on to the lab where they are in development in the user app (mobile).
 
 [Rock Paper Scissors Game](https://github.com/nolanjimmo/Rock-Paper-Scissors-With-Graphcis)<br>
-[NBA Trading Card Service](https://github.com/nolanjimmo/NBA-Trading-Cards)
+[NBA Trading Card Service](https://github.com/nolanjimmo/NBA-Trading-Cards)<br>
 Linked above are two graphics-heavy projects that I worked on with two different teams of people. Rock paper scissors, written in C++ is a simple implementation of the well-known game, with all graphics and controls built by my partner and I using OpenGL and standard C++ libraries.<br>
-The NBA trading card service is a Python-based trading card webservice that we built both the backend database and API for, as well as the front-end webapp.
+The NBA trading card service is a Python-based trading card webservice that we built both the backend database and API for (Python and MySQL), as well as the front-end webapp (Python and Flask).
