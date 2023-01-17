@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 ## About Me
 I am a recent graduate of the University of Vermont with both a Bachelor of Science and Masters degree in Computer Science, where I was enrolled in the universities Accelerated Masters program. I am currently looking a full-time job, please feel free to look around a couple of my repo's and see what I have worked on throughout my undergraduate and graduate career!
 
+## Currently In-Progress
+I am currently working on creating my own handicap calculator (golf) that I will eventually be hosting through AWS EC2. This began a command-line program that I just used for myself to calculate my handicap as a golfer, but I have expanded it in to a full site, database-connected back end, etc. so that myself and my buddies can use it together, share information about our golf games, etc. Navigate to my repo's page and it should be the first one if you are interested in checking it out! I will post the link when I get it successfully hosted with AWS.
+
 ## Highlights
 There have been a number of projects that I have had the privelege of working on, below are links to a few that have been especially meaningful to me:
 
