@@ -20,7 +20,8 @@ I am a recent graduate of the University of Vermont with both a Bachelor of Scie
 
 ## Currently In-Progress
 I am currently working on creating my own handicap calculator (golf) that I am hosting with AWS hosted through AWS EC2. This began a command-line program that I just used for myself to calculate my handicap as a golfer, but I have expanded it in to a full site, database-connected back end, Flask framework/HTML front-end etc. so that myself and my buddies can use it together, share information about our golf games, etc. Navigate to my repo's page and it should be the first one if you are interested in checking out the source code, otherwise click the link below to see the login for the page.
-LINK: [CLICK ME!](http://ec2-54-165-208-121.compute-1.amazonaws.com/)
+<br>LINK: [CLICK ME!](http://ec2-54-165-208-121.compute-1.amazonaws.com/)
+<br> Feel free to use the test account with username: Test and password: 123 to play around with the site!
 
 ## Highlights
 There have been a number of projects that I have had the privelege of working on, below are links to a few that have been especially meaningful to me:
